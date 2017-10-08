@@ -24,10 +24,10 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav mr-auto">
         <li class="nav-item">
-          <a class="nav-link navbar-font-color" href="http://www.imdb.com/">Home <span class="#"></span></a>
+          <a class="nav-link navbar-font-color" href="index.php">Home <span class="#"></span></a>
         </li>
         <li class="nav-item active">
-          <a class="nav-link navbar-font-color" href="http://www.weekly-challenge.test:8080/week05/try05/movie_details.php?imdb_id=1454029">Movie details <span class="index.html"><!-- current page --> </span></a>
+          <a class="nav-link navbar-font-color" href="http://www.weekly-challenge.test:8080/week05/ToUploadChallangeWeek06/movie_details.php?imdb_id=1454029">Movie details <span class="index.html"><!-- current page --> </span></a>
         </li>
         <li class="nav-item">
           <a class="nav-link navbar-font-color" href="#">Person</a>

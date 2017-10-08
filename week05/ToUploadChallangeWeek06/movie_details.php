@@ -42,37 +42,37 @@
 
 
 <nav class="navbar navbar-expand-lg navbar-light background-color-flexcard-body">
-    <!-- font color was navbar-light changed into white-->
-    <a class="navbar-brand" href="http://www.imdb.com/"><img src="img/logo.png" width="40" height="40" alt=""></a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
-      aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
+<!-- font color was navbar-light changed into white-->
+<a class="navbar-brand" href="http://www.imdb.com/"><img src="img/logo.png" width="40" height="40" alt=""></a>
+<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+  aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
 
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav mr-auto">
-        <li class="nav-item">
-          <a class="nav-link navbar-font-color" href="http://www.imdb.com/">Home <span class="#"></span></a>
-        </li>
-        <li class="nav-item active">
-          <a class="nav-link navbar-font-color" href="http://www.weekly-challenge.test:8080/week05/try05/movie_details.php?imdb_id=1454029">Movie details <span class="index.html"><!-- current page --> </span></a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link navbar-font-color" href="#">Person</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link navbar-font-color" href="#">Award</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link navbar-font-color" href="other_movies.php">More movies</a>
-        </li>
-      </ul>
-      <form class="form-inline my-2 my-lg-0">
-        <input class="form-control mr-sm-2" type="text" placeholder="Search movie" aria-label="Search">
-        <button class="btn btn-outline-success my-2 my-sm-0 navbar-font-color" type="submit">Search</button>
-      </form>
-    </div>
-  </nav>
+<div class="collapse navbar-collapse" id="navbarSupportedContent">
+  <ul class="navbar-nav mr-auto">
+    <li class="nav-item">
+      <a class="nav-link navbar-font-color" href="index.php">Home <span class="#"></span></a>
+    </li>
+    <li class="nav-item active">
+      <a class="nav-link navbar-font-color" href="http://www.weekly-challenge.test:8080/week05/ToUploadChallangeWeek06/movie_details.php?imdb_id=1454029">Movie details <span class="index.html"><!-- current page --> </span></a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link navbar-font-color" href="#">Person</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link navbar-font-color" href="#">Award</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link navbar-font-color" href="other_movies.php">More movies</a>
+    </li>
+  </ul>
+  <form class="form-inline my-2 my-lg-0">
+    <input class="form-control mr-sm-2" type="text" placeholder="Search movie" aria-label="Search">
+    <button class="btn btn-outline-success my-2 my-sm-0 navbar-font-color" type="submit">Search</button>
+  </form>
+</div>
+</nav>
 
     <!-- Begin container for sliding pictures -->
     <div class="container">
